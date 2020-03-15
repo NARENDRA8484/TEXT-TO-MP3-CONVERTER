@@ -52,7 +52,7 @@ if value==1:
 elif value==2:
     mp3file=input("Enter the URL of the Path in the file to be saved : ")
     speech.save("%s.mp3" % os.path.join(mp3file,filename))
-    file=filename+".mp3"
+    file=os.path.join(mp3file,filename)+".mp3"
     os.startfile(file)
     print("File Saved in Your Specified directory")
 
