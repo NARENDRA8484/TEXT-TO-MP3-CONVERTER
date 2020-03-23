@@ -7,6 +7,6 @@ FOR THE EXECUTION THIS PROGRAM FIRST YOU NEED TO INSTALL gTTs(GOOGLE-TEXT-TO-SPE
   #" pip install gTTs "  ---> for windows (in command prompt)
   
   
-  #"sudo apt-get update -y" and "sudo apt-get install -y python-gtts" ---->for ubuntu
+  #"sudo apt-get update -y" and "sudo apt-get install -y python-gtts" ---->for ubuntu and linux based systems
   
 
